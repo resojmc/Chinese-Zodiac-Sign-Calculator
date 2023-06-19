@@ -3,7 +3,7 @@ import tkinter as tk
 
 #Tkinter Gui main elements
 root = tk.Tk()
-root.geometry("300x600")
+root.geometry("300x200")
 root.title("Zodiac Calculator")
 
 def find_zodiac(year):
